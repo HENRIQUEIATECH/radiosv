@@ -22,5 +22,13 @@ Merle Haggard Chill Factor | https://dn721809.ca.archive.org/0/items/hagworld/01
 Merle Haggard Footlights | https://dn721809.ca.archive.org/0/items/hagworld/01%20-%20Footlights.mp3
 Merle Haggard Nobody's Darling But Mine | https://dn721809.ca.archive.org/0/items/hagworld/10%20-%20Nobody%27s%20Darling%20But%20Mine.mp3
 Merle Haggard Going Where the Lonely Go | https://dn721809.ca.archive.org/0/items/hagworld/01%20-%20Going%20Where%20the%20Lonely%20Go.mp3
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
  Todos os Diretos Reservados <iframe src="https://visualizar-iartium.blogspot.com/p/radiosv-radio-silicon-valley-country.html" width="1" height="1" title="Iartium"></iframe> 2026
-
+</body>
+</html>
